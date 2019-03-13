@@ -1,4 +1,4 @@
-# ITxiaFAQdoc {#itxiafaqdoc}
+# ITxiaFAQ {#itxiafaq}
 
 快速阅读提示：电脑端左侧有目录，手机QQ端右上角三横点开可显示目录。
 
