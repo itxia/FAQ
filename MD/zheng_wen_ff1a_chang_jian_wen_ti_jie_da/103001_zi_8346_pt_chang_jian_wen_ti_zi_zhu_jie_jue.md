@@ -11,20 +11,20 @@
 
 紫荆和所有的PT下载站一样，**禁止使用迅雷/QQ旋风等不合要求的下载工具**，紫荆提供了推荐下载客户端，在**紫荆首页的右上角**就可以找到：将鼠标放到绿色的u图标上，下载链接托盘就会出现，根据你的系统选择客户端，点击客户端名字即刻开始下载。
 
-![zijing](../media/image4.png)
+![zijing](../media/image5.png)
 
 ### 10.2、用uTorrent下载没速度 {#10-2-utorrent}
 
 请先检查一下uTorrent的下载情况有没有这一行： <font color=red><u>错误：系统找不到指定的路径。</u></font>
 
 例图：
-![uterror](../media/image5.png)
+![uterror](../media/image6.png)
 
 如果是这种情况
 
 1.  请右键下载任务->移除。
 2.  然后重新用uTorrent打开种子文件。
 3.  点击下图中被红框框起的按钮更改下载位置。
-    ![ut](../media/image6.png)
+    ![ut](../media/image7.png)
 
 关于为什么会出现这个问题：从上面这个图的蓝色地址里可以看出，uTorrent的默认下载位置是在H盘，如果你的电脑没有H盘，系统就找不到这个路径了。
